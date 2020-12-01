@@ -1,5 +1,7 @@
 # mytestvue2demo
 
+![image](https://github.com/kaluogh/MyTestVue2Demo/blob/master/demo.png)
+
 ## Project setup
 ```
 npm install
